@@ -11,14 +11,14 @@ Projetos
 Aqui estão alguns dos projetos que estão sendo desenvolvidos utilizando as tecnologias mencionadas:
 
 1. [[xhotelpms.com/]
-Descrição : [Breve descrição do projeto, como "Uma landing page para uma loja online com design responsivo."]
+Descrição : apresenta um software mobile de gestão hoteleira, destacando suas funcionalidades principais, como controle de reservas, check-ins e check-outs. O site explica os benefícios da plataforma, mostrando como ela otimiza a administração de hotéis de forma prática e acessível
 Tecnologias : HTML, CSS, Bootstrap
 Funcionalidades :
 Layout adaptável para desktop e mobile
 Estilização moderna com Bootstrap
 Link : [https://www.xhotelpms.com/]
 2. [qsofterp]
-Descrição : [Exemplo: "Uma calculadora interativa com interface amigável."]
+Descrição :  apresenta um software de faturação desenvolvido para otimizar e automatizar os processos financeiros e administrativos das empresas. Com uma interface intuitiva e funcionalidades robustas, o Q-Soft permite emitir faturas personalizadas, controlar estoques, gerenciar clientes e fornecedores, além de oferecer módulos para compras, tesouraria e recursos humanos. A página também destaca serviços como implementação, suporte técnico 24/7 e formação personalizada, visando garantir a máxima eficiência na gestão empresarial.
 Tecnologias : HTML, CSS, JavaScript
 Funcionalidades :
 Cálculos em tempo real
